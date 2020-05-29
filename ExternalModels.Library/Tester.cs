@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace ExternalModels.Library
 {
-    public class Developer
+    public class Tester
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }

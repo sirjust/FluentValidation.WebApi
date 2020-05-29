@@ -8,5 +8,9 @@
     <PackageReference Include="FluentValidation.AspNetCore" Version="8.6.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ExternalModels.Library\ExternalModels.Library.csproj" />
+  </ItemGroup>
+
 
 </Project>
