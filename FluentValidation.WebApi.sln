@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentValidation.WebApi", "FluentValidation.WebApi\FluentValidation.WebApi.csproj", "{D6CFBD29-FDEF-48B9-81AA-7BA4368C8D63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalModels.Library", "ExternalModels.Library\ExternalModels.Library.csproj", "{B8B974F0-0031-49C7-ADDF-CA8302711D74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6CFBD29-FDEF-48B9-81AA-7BA4368C8D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CFBD29-FDEF-48B9-81AA-7BA4368C8D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CFBD29-FDEF-48B9-81AA-7BA4368C8D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CFBD29-FDEF-48B9-81AA-7BA4368C8D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8B974F0-0031-49C7-ADDF-CA8302711D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B974F0-0031-49C7-ADDF-CA8302711D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B974F0-0031-49C7-ADDF-CA8302711D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B974F0-0031-49C7-ADDF-CA8302711D74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA39B67E-E837-44DC-A3A5-98C69D08C9CD}
+	EndGlobalSection
+EndGlobal
